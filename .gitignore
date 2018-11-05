@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Project1/obj/Debug
+/BC_DataStaging/bin/Debug
+/BC_DataStaging/obj/Debug
+/BC_DataStaging
+/BC_MainApplication
+/BoardChitless/BoardChitless.dbmdl
+/BoardChitless/BoardChitless.jfm

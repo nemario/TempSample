@@ -1,0 +1,17 @@
+C:\Users\capple\Documents\gitLab\boardChitless_api\boardchitless.engines.ratingCalculationsEngine\bin\Debug\boardchitless.engines.ratingCalculationsEngine.dll
+C:\Users\capple\Documents\gitLab\boardChitless_api\boardchitless.engines.ratingCalculationsEngine\bin\Debug\boardchitless.engines.ratingCalculationsEngine.pdb
+C:\Users\capple\Documents\gitLab\boardChitless_api\boardchitless.engines.ratingCalculationsEngine\obj\Debug\boardchitless.engines.ratingCalculationsEngine.dll
+C:\Users\capple\Documents\gitLab\boardChitless_api\boardchitless.engines.ratingCalculationsEngine\obj\Debug\boardchitless.engines.ratingCalculationsEngine.pdb
+C:\Users\capple\Documents\gitLab\boardchitless-api\boardchitless.engines.ratingCalculationsEngine\bin\Debug\boardchitless.engines.ratingCalculationsEngine.dll
+C:\Users\capple\Documents\gitLab\boardchitless-api\boardchitless.engines.ratingCalculationsEngine\bin\Debug\boardchitless.engines.ratingCalculationsEngine.pdb
+C:\Users\capple\Documents\gitLab\boardchitless-api\boardchitless.engines.ratingCalculationsEngine\obj\Debug\boardchitless.engines.ratingCalculationsEngine.dll
+C:\Users\capple\Documents\gitLab\boardchitless-api\boardchitless.engines.ratingCalculationsEngine\obj\Debug\boardchitless.engines.ratingCalculationsEngine.pdb
+\\Mac\Home\Desktop\BC\boardchitless.engines.ratingCalculationsEngine\bin\Debug\boardchitless.engines.ratingCalculationsEngine.dll
+\\Mac\Home\Desktop\BC\boardchitless.engines.ratingCalculationsEngine\bin\Debug\boardchitless.engines.ratingCalculationsEngine.pdb
+\\Mac\Home\Desktop\BC\boardchitless.engines.ratingCalculationsEngine\obj\Debug\boardchitless.engines.ratingCalculationsEngine.dll
+\\Mac\Home\Desktop\BC\boardchitless.engines.ratingCalculationsEngine\obj\Debug\boardchitless.engines.ratingCalculationsEngine.pdb
+C:\Users\capple.NG\Source\Repos\BoardChitless\boardchitless.engines.ratingCalculationsEngine\bin\Debug\boardchitless.engines.ratingCalculationsEngine.dll
+C:\Users\capple.NG\Source\Repos\BoardChitless\boardchitless.engines.ratingCalculationsEngine\bin\Debug\boardchitless.engines.ratingCalculationsEngine.pdb
+C:\Users\capple.NG\Source\Repos\BoardChitless\boardchitless.engines.ratingCalculationsEngine\obj\Debug\ratingCalculationsEngine.csprojResolveAssemblyReference.cache
+C:\Users\capple.NG\Source\Repos\BoardChitless\boardchitless.engines.ratingCalculationsEngine\obj\Debug\boardchitless.engines.ratingCalculationsEngine.dll
+C:\Users\capple.NG\Source\Repos\BoardChitless\boardchitless.engines.ratingCalculationsEngine\obj\Debug\boardchitless.engines.ratingCalculationsEngine.pdb

@@ -1,0 +1,1 @@
+\\Mac\Home\Documents\GitHub\TempSample\boardchitless.Tests.WebLoad_API.Tests\obj\Debug\Clients.WebLoad_API.Tests.csprojResolveAssemblyReference.cache

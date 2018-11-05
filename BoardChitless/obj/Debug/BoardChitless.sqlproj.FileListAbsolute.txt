@@ -1,0 +1,15 @@
+\\Mac\Home\Desktop\BC\BoardChitless\bin\Debug\BoardChitless.dacpac
+\\Mac\Home\Desktop\BC\BoardChitless\bin\Debug\BoardChitless.dll
+\\Mac\Home\Desktop\BC\BoardChitless\bin\Debug\BoardChitless.pdb
+\\Mac\Home\Desktop\BC\BoardChitless\obj\Debug\BoardChitless.dll
+\\Mac\Home\Desktop\BC\BoardChitless\obj\Debug\BoardChitless.pdb
+C:\Users\capple.NG\Source\Repos\BoardChitless\BoardChitless\bin\Debug\BoardChitless.dacpac
+C:\Users\capple.NG\Source\Repos\BoardChitless\BoardChitless\bin\Debug\BoardChitless.dll
+C:\Users\capple.NG\Source\Repos\BoardChitless\BoardChitless\bin\Debug\BoardChitless.pdb
+C:\Users\capple.NG\Source\Repos\BoardChitless\BoardChitless\obj\Debug\BoardChitless.dll
+C:\Users\capple.NG\Source\Repos\BoardChitless\BoardChitless\obj\Debug\BoardChitless.pdb
+\\Mac\Home\Documents\GitHub\TempSample\BoardChitless\bin\Debug\BoardChitless.dacpac
+\\Mac\Home\Documents\GitHub\TempSample\BoardChitless\bin\Debug\BoardChitless.dll
+\\Mac\Home\Documents\GitHub\TempSample\BoardChitless\bin\Debug\BoardChitless.pdb
+\\Mac\Home\Documents\GitHub\TempSample\BoardChitless\obj\Debug\BoardChitless.dll
+\\Mac\Home\Documents\GitHub\TempSample\BoardChitless\obj\Debug\BoardChitless.pdb

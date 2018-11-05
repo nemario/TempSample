@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9D79C155-C2C5-42EF-AC88-B2DA2563FFFB}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BoardChitless.Manager.LoadManager</RootNamespace>
+    <AssemblyName>BoardChitless.Manager.LoadManager</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DontPanic.ServiceHelpers, Version=9.0.0.1, Culture=neutral, PublicKeyToken=f41ffc97e0c64c1b, processorArchitecture=MSIL">
+      <HintPath>..\packages\DPLServiceHelpers.9.0.0.1\lib\DontPanic.ServiceHelpers.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BoardGameGeekLoader.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\boardchitless.resourceAccess.APIAccessor_boardgamegeek\APIAccessor_boardgamegeek.csproj">
+      <Project>{0dfd634b-7633-4d07-86ef-59e4e8d35c73}</Project>
+      <Name>APIAccessor_boardgamegeek</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\boardchitless.resourceAccess.SQLAccessor_boardchitless\SQLAccessor_boardchitless.csproj">
+      <Project>{97a5d3ba-248c-43aa-811f-dfef3c53b874}</Project>
+      <Name>SQLAccessor_boardchitless</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BoardChitless.Shared.ApiServiceBase\ApiServiceBase.csproj">
+      <Project>{5da331e0-4f63-4889-a1bb-2d1f2d97b4a5}</Project>
+      <Name>ApiServiceBase</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BoardChitless.Shared.ClientFactory\ClientFactory.csproj">
+      <Project>{b55027d3-710b-4719-9d5a-af02f4ba4daa}</Project>
+      <Name>ClientFactory</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\boardchitless.shared.datacontracts\DataContracts.csproj">
+      <Project>{b9cf0466-9dce-431d-b6b5-e15fbc7d837d}</Project>
+      <Name>DataContracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BoardChitless.Tests.Common\Common.csproj">
+      <Project>{223c2432-c6fe-4d04-8d7e-c367e1e6e308}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BoardChitless.Tests.ResourceAccess.APIAccessor_boardgamegeek\ResourceAccess.APIAccessor_boardgamegeek.csproj">
+      <Project>{c5a44403-cdd2-4adc-b8c9-b559050e3160}</Project>
+      <Name>ResourceAccess.APIAccessor_boardgamegeek</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BoardChitless.Tests.ResourceAccess.SQLAccessor_boardchitless\ResourceAccess.SQLAccessor_boardchitless.csproj">
+      <Project>{ffe2debf-652e-4abf-b186-8811e703b14d}</Project>
+      <Name>ResourceAccess.SQLAccessor_boardchitless</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

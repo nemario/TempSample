@@ -1,0 +1,6 @@
+C:\Users\capple.NG\Source\Repos\BoardChitless\boardchitless.Clients.RunAPIIntegrations\bin\Debug\boardchitless.Clients.RunAPIIntegrations.exe.config
+C:\Users\capple.NG\Source\Repos\BoardChitless\boardchitless.Clients.RunAPIIntegrations\bin\Debug\boardchitless.Clients.RunAPIIntegrations.exe
+C:\Users\capple.NG\Source\Repos\BoardChitless\boardchitless.Clients.RunAPIIntegrations\bin\Debug\boardchitless.Clients.RunAPIIntegrations.pdb
+C:\Users\capple.NG\Source\Repos\BoardChitless\boardchitless.Clients.RunAPIIntegrations\obj\Debug\RunAPIIntegrations.csprojResolveAssemblyReference.cache
+C:\Users\capple.NG\Source\Repos\BoardChitless\boardchitless.Clients.RunAPIIntegrations\obj\Debug\boardchitless.Clients.RunAPIIntegrations.exe
+C:\Users\capple.NG\Source\Repos\BoardChitless\boardchitless.Clients.RunAPIIntegrations\obj\Debug\boardchitless.Clients.RunAPIIntegrations.pdb

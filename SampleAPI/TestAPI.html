@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Test API</title>
+</head>
+<body>
+
+    <div>
+        <h2>Return Code</h2>
+        <ul id="products" />
+    </div>
+    <div>
+        <h2>Load Gane by ID (Suggestion 822)</h2>
+        <input type="text" id="gameID" size="5" />
+        <input type="button" value="Search" onclick="find();" />
+        <p id="returnCode" />
+    </div>
+
+    <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-2.0.3.min.js"></script>
+    <script>
+    var uri = 'api/LoadGames';
+
+
+
+    function find() {
+        var id = $('#gameID').val();
+      $.getJSON(uri + '/' + id)
+          .done(function (data) {
+             
+                  // Add a list item for the product.
+                  $('<li>', { text: data }).appendTo($('#products'));
+     
+          })
+          .fail(function (jqXHR, textStatus, err) {
+            //$('#product').text('Error: ' + err);
+          });
+    }
+    </script>
+</body>
+</html>

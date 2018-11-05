@@ -1,0 +1,5 @@
+C:\Users\capple.NG\Source\Repos\BoardChitless\boardchitless.resourceAccess.APIAccessor_twitter\bin\Debug\boardchitless.resourceAccess.APIAccessor_twitter.dll
+C:\Users\capple.NG\Source\Repos\BoardChitless\boardchitless.resourceAccess.APIAccessor_twitter\bin\Debug\boardchitless.resourceAccess.APIAccessor_twitter.pdb
+C:\Users\capple.NG\Source\Repos\BoardChitless\boardchitless.resourceAccess.APIAccessor_twitter\obj\Debug\APIAccessor_twitter.csprojResolveAssemblyReference.cache
+C:\Users\capple.NG\Source\Repos\BoardChitless\boardchitless.resourceAccess.APIAccessor_twitter\obj\Debug\boardchitless.resourceAccess.APIAccessor_twitter.dll
+C:\Users\capple.NG\Source\Repos\BoardChitless\boardchitless.resourceAccess.APIAccessor_twitter\obj\Debug\boardchitless.resourceAccess.APIAccessor_twitter.pdb
